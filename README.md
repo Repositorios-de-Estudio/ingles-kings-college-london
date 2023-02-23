@@ -211,3 +211,4 @@ Sujeto + tobe + verbo-ing
 # NOTAS
 - tense = sentencia
 - What will you be doing? = ¿Que vas a hacer?
+- as it is called: como se le llama
