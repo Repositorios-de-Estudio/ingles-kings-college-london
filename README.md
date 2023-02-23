@@ -205,6 +205,45 @@ Sujeto + tobe + verbo-ing
 - office
 - airport
 
+## pasado - verbos regular
+
+**verbo + ed** \
+* start - started
+* play - played
+* clean - cleaned
+* finish - finished
+* listen - listened
+* prepare - prepared
+* dance - danced
+
+## pasado - verbos irregular
+
+**no hay regla** \
+* buy - bought
+* spoke - speak
+* eat - ate
+* have - had
+* go - went
+
+## estructura pasado simple
+* sujeto + verbo en pasado + complemento
+* sujeto + did not + verbo + complemento
+* Did + sujeto + verbo + complemento
+	* Yes/No, frase en pasado
+	* Yes/No, she/he did (not)
+
+- I danced to music at the disco.
+- I finished my homework at 5pm.
+- I cleaned the kitchen yesterday.
+- I prepared the dinner last night.
+- Nadia did not dance at the party.
+- Mo did not prepare the food.
+- Ahmed did not clean the floor.
+- Did Nadia walk?
+- Did Nadia's sister walk to the shop?
+	- No, She was sick 
+
+
 
 
 
@@ -212,3 +251,6 @@ Sujeto + tobe + verbo-ing
 - tense = sentencia
 - What will you be doing? = ¿Que vas a hacer?
 - as it is called: como se le llama
+- I went home to my house = me fui a mi casa
+- only once = solo una vez
+- by reading about  = leyendo sobre
