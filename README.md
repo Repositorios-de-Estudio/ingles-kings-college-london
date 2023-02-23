@@ -199,3 +199,10 @@ Sujeto + tobe + verbo-ing
 - market - mercado
 - office
 - airport
+
+
+
+
+# NOTAS
+- tense = sentencia
+- What will you be doing? = ¿Que vas a hacer?
