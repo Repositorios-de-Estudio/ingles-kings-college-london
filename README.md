@@ -19,6 +19,13 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 - you
 - they
 
+**SIN NOMBRE**
+- There is/are lot- Hay (hay muchos)
+- There - Allá
+- That - Eso
+- This - Este
+- Those - Aquellos
+
 # verb to be 
 - am (i am)
 - is (he/she is)
@@ -224,6 +231,7 @@ Sujeto + tobe + verbo-ing
 * eat - ate
 * have - had
 * go - went
+* take - took
 
 ## estructura pasado simple
 * sujeto + verbo en pasado + complemento
@@ -244,6 +252,10 @@ Sujeto + tobe + verbo-ing
 	- No, She was sick 
 
 
+## El tiempo
+- 09:57 - It's 10 past three
+- 24:52 - It's twenty five past eight
+
 
 
 
@@ -254,3 +266,7 @@ Sujeto + tobe + verbo-ing
 - I went home to my house = me fui a mi casa
 - only once = solo una vez
 - by reading about  = leyendo sobre
+- How’s it going man! = Como estas!
+- Look at my  = Mira mi(s)
+- Write back soon = Escribeme pronto (sobre un email)
+- What’s London like? = Como esta Londres?
