@@ -92,3 +92,13 @@
 - Pond - Estanque/Charca.
 - Florist - Floristeria.
 - Roundabout - Rotonda.
+
+# acciones
+- flying
+- dancing
+- walking
+- running
+- jumping
+- falling 
+- swimming
+- 

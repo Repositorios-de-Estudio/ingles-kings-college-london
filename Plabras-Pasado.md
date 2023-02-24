@@ -10,7 +10,6 @@
 * dance - danced
 
 ## pasado - verbos irregular
-
 **no hay regla** \
 * buy - bought
 * spoke - speak
@@ -19,3 +18,5 @@
 * go - went
 * take - took
 * wake - woke
+* drive - drove
+* swim - swam

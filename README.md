@@ -20,12 +20,12 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 - they
 
 ## Adjetivos demostrativos
-- There is/are lot- Hay (hay muchos)
-- There - Allá
-- That - Eso
-- Those - Esos
-- This - Este
-- These - Estos
+* There is/are lot- Hay (hay muchos)
+* There - Allá
+* That - Eso
+* Those - Esos
+* This - Este
+* These - Estos
 
 
 ## verb to be 
@@ -208,14 +208,14 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 
 ## DIRECCIONES (prepositions of place and movement)
 
-## Preposiciones 
-- to - a/hacia
-- from - de/desde
-- through - a través de
-- round - dar vuelta a
-- along - a lo largo de
-- across - cruzar
-- past - pasando por
+## Preposiciones de movimiento
+* to - a/hacia
+* from - de/desde
+* through - a través de
+* round - dar vuelta a
+* along - a lo largo de
+* across - cruzar
+* past - pasando por
 
 ### Ejemplos:
 - Ahmed is going to university (va a la universidad)
@@ -225,10 +225,36 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 - Ahmed is walking along the road (esta caminando por la carretera)
 - Ahmed is walking across the bridge (esta cruzando el puente)
 - Ahmed is walking past the shop (esta pasando por la tienda)
+- The train is going under the bridge
+- The car is driving round the roundabout
+- I go along the river every day
+- I walked from my house to the library
+- He drove his car through the city
+- I ran past the cake shop this morning
+- I go to the library every day
+- The dog swam across the river, to the end
+- The duck swam past the boat
+- I swam from this side of the lake and along the park
 
 ### Ejmplo pedir y dar direcciones
 - Hector: Excuse me sir, how do I get to the hospital?
 - Martin: Go along this road, past the cinema, across the bridge and the hospital is on the left.
+
+## Preposiciones de lugares
+* between - entre.
+* behind - detrás de.
+* in front of - delante de.
+* under - bajo de.
+
+### Ejemplos:
+- Bobby the cat is between the plant and the sofa
+- Bobby the cat is behind the sofa
+- Bobby the cat is in front of the tv
+- Bobby the cat is under the table
+
+## Ejemplos compuestos:
+- The man is running with the dog through the forest
+- The cat is running from the dog through the snow
 
 
 ***
