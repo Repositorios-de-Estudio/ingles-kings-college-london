@@ -19,12 +19,14 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 - you
 - they
 
-**SIN NOMBRE**
+**Adjetivos demostrativos**
 - There is/are lot- Hay (hay muchos)
 - There - Allá
 - That - Eso
+- Those - Esos
 - This - Este
-- Those - Aquellos
+- These - Estos
+
 
 # verb to be 
 - am (i am)
@@ -34,7 +36,7 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 # Adjetivos/atributos (Adjectives) 
 
 tamaño,forma,color,temperatura, sabor
-riser pcialejandro ramirezpcmi pcvendo riser
+
 ## Personalidad
 
 - shy
@@ -253,11 +255,54 @@ Sujeto + tobe + verbo-ing
 
 
 ## El tiempo
-- 09:57 - It's 10 past three
-- 24:52 - It's twenty five past eight
 
 
 
+### Hora en punto (o'clock)
+- It's three o'clock
+- It's six o'clock
+- It's one o'clock
+
+### 12:00 a.m (media noche)
+- It's twelve o'clock
+- It's twuelve pm
+- It's midnight
+
+### 12:00 p.m (medio día)
+- It's twelve o'clock
+- It's twuelve am
+- It's twuelve noon
+- It's midday
+
+### Hora desde 01 min a 09 min (oh)
+- 10:01 = it's ten oh one
+- 10:06 = it's ten oh six
+- 10:07 = it's ten oh nine
+
+## Hora con el minutero del lado derecho 10min-29min (after/past)
+Cuando el minutero esta al lado derecho del reloj, se puede usar *after* o *past*. \
+
+- 8:10 = it's ten after eight (it's eight ten) - 10min despues de las 8
+- 8:10 = it's ten past eight
+- 8:25 = it's twenty five after eight (it's eight twenty five) - 25min despues de las 8
+- 8:25 = it's twenty five past eight
+
+## Hora con el minutero del lado izquierdo 31min-59min (to)
+Cuando el minutero esta al lado izquierdo del reloj, se puede usar *to*. \
+
+- 4:35 = it's twenty five to five (it's four thirty five) - faltan 25min para las 5
+- 4:50 = it's ten to five (it's four fifty) - faltan 10min para las 5
+
+### Hora y media 30min (half past)
+- 2:30 = it's half past two (it's two thirty)
+- 4:30 = it's half past four (it's four thirty)
+- 6:30 = it's half past six (it's four six)
+
+### Hora con cuarto +/-15 min (a quarter)
+Dependendiento de que lado este el minutero se aplican las reglas de *past/after* o *to*. \
+
+- 6:15 = it's a quarter past/after six (it's six fifteen) - pasan 15min despues de las 6
+- 6:45 = it's a quarter to seven (it's six forty five) - faltan 15min para las 7
 
 # NOTAS
 - tense = sentencia
