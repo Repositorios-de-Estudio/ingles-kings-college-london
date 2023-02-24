@@ -79,3 +79,16 @@
 - office
 - airport
 
+# direcciones
+- Park - Parque.
+- Greengrocer - Verduleria/Mercado.
+- Bridge - Puente.
+- River - Río.
+- School - Escuela.
+- Library - Biblioteca.
+- Train station - Estación de tren.
+- Bookshop - Librería.
+- Hill - Colina.
+- Pond - Estanque/Charca.
+- Florist - Floristeria.
+- Roundabout - Rotonda.

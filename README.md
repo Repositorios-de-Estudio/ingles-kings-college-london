@@ -9,7 +9,7 @@
 Curso: [FutureLearn](https://www.futurelearn.com/)
 
 
-# Sujeto (pronouns)
+## Sujeto (pronouns)
 - i 
 - you
 - he
@@ -19,7 +19,7 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 - you
 - they
 
-**Adjetivos demostrativos**
+## Adjetivos demostrativos
 - There is/are lot- Hay (hay muchos)
 - There - Allá
 - That - Eso
@@ -28,16 +28,16 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 - These - Estos
 
 
-# verb to be 
+## verb to be 
 - am (i am)
 - is (he/she is)
 - are (we/you/they are)
 
-# Adjetivos/atributos (Adjectives) 
+## Adjetivos/atributos (Adjectives) 
 
 tamaño,forma,color,temperatura, sabor
 
-# Contracciones (Contractions)
+## CONTRACCIONES (Contractions)
 
 he/she is
 - he's happy, she's funny
@@ -45,7 +45,7 @@ he/she is
 - He's/She's not shy
 
 
-# Expresiones (Expressing likes and dislikes)
+## EXPRESIONES (Expressing likes and dislikes)
 
 *(+) Love, like, dontlike, hate (-)*
 
@@ -78,7 +78,7 @@ R: She **hates** watching romantic films
 
 
 
-# Futuro
+## FUTURO
 
 ## Will
 Futuro simple, Predicciones en el futuro, Promesas, solicitudes, rechazos, ofertas.
@@ -110,7 +110,7 @@ Planes e intenciones, Predicciones.
 - Are you going to London this summer?
 
 
-# Presente continuo (present continuous tense)
+## PRESENTE CONTINUO (present continuous tense)
 
 Sujeto + tobe + verbo-ing
 
@@ -133,7 +133,7 @@ Sujeto + tobe + verbo-ing
 
 # Basic English 2: Pre-Intermediate King's College London
 
-## estructura pasado simple
+## PASADO SIMPLE
 * sujeto + verbo en pasado + complemento
 * sujeto + did not + verbo + complemento
 * Did + sujeto + verbo + complemento
@@ -152,9 +152,9 @@ Sujeto + tobe + verbo-ing
 	- No, She was sick 
 
 
-## El tiempo
+## LA HORA
 
-### Hora en punto (o'clock)
+## Hora en punto (o'clock)
 - It's three o'clock
 - It's three am
 - It's three pm
@@ -165,18 +165,18 @@ Sujeto + tobe + verbo-ing
 - It's one am
 - It's one pm
 
-### 12:00 a.m (media noche)
+## 12:00 a.m (media noche)
 - It's twelve o'clock
 - It's twuelve pm
 - It's midnight
 
-### 12:00 p.m (medio día)
+## 12:00 p.m (medio día)
 - It's twelve o'clock
 - It's twuelve am
 - It's twuelve noon
 - It's midday
 
-### Hora desde 01 min a 09 min (oh)
+## Hora desde 01 min a 09 min (oh)
 - 10:01 = it's ten oh one
 - 10:06 = it's ten oh six
 - 10:07 = it's ten oh nine
@@ -195,16 +195,43 @@ Cuando el minutero esta al lado izquierdo del reloj, se puede usar *to*. \
 - 4:35 = it's twenty five to five (it's four thirty five) - faltan 25min para las 5
 - 4:50 = it's ten to five (it's four fifty) - faltan 10min para las 5
 
-### Hora y media 30min (half past)
+## Hora y media 30min (half past)
 - 2:30 = it's half past two (it's two thirty)
 - 4:30 = it's half past four (it's four thirty)
 - 6:30 = it's half past six (it's four six)
 
-### Hora con cuarto +/-15 min (a quarter)
+## Hora con cuarto +/-15 min (a quarter)
 Dependendiento de que lado este el minutero se aplican las reglas de *past/after* o *to*. \
 
 - 6:15 = it's a quarter past/after six (it's six fifteen) - pasan 15min despues de las 6
 - 6:45 = it's a quarter to seven (it's six forty five) - faltan 15min para las 7
+
+## DIRECCIONES (prepositions of place and movement)
+
+## Preposiciones 
+- to - a/hacia
+- from - de/desde
+- through - a través de
+- round - dar vuelta a
+- along - a lo largo de
+- across - cruzar
+- past - pasando por
+
+### Ejemplos:
+- Ahmed is going to university (va a la universidad)
+- Ahmed is walking from university (camina desde la universidad)
+- Ahmed is walking through the door (esta pasando a travez de la puerta)
+- Ahmed is walking round the corner (esta dando la vuelta a la esquina)
+- Ahmed is walking along the road (esta caminando por la carretera)
+- Ahmed is walking across the bridge (esta cruzando el puente)
+- Ahmed is walking past the shop (esta pasando por la tienda)
+
+### Ejmplo pedir y dar direcciones
+- Hector: Excuse me sir, how do I get to the hospital?
+- Martin: Go along this road, past the cinema, across the bridge and the hospital is on the left.
+
+
+***
 
 # NOTAS
 - (i) siempre va con mayucula = ..., I run ...
@@ -218,3 +245,4 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 - Look at my  = Mira mi(s)
 - Write back soon = Escribeme pronto (sobre un email)
 - What’s London like? = Como esta Londres?
+-  will help you to find your way around = Te ayudará a orientarte
