@@ -37,63 +37,6 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 
 tamaño,forma,color,temperatura, sabor
 
-## Personalidad
-
-- shy
-- moody
-- talkative
-- friendly
-- sad
-- hardworking
-- cheerful
-- funny
-- independent
-- easygoing
-- seious
-- calm
-- creative
-- energetic
-- happy
-- organised
-- boring
-- intelligent
-- confident
-
-## Estado de salud
-
-- coughing (tosiendo)
-- Slapping (bofetada)
-- carring (llevando)
-- Singing (cantando)
-- Sailing (navegando)
-- Sneezing (estornudando)
-
-## Estados 
-
-- angry
-- sad
-- relaxed
-- worrying
-
-
-## Objetos
-
-- book
-- essay (ensayo)
-- table
-
-# Fimls
-- comedy
-- romance
-- action
-
-# Profesiones
-- Chef
-- Teacher
-- Soldier
-- Student
-- Medic
-
 # Contracciones (Contractions)
 
 he/she is
@@ -101,13 +44,6 @@ he/she is
 - What’s he like?
 - He's/She's not shy
 
-# Gustos (Hoobies / activity)
-- playing footbal
-- singing
-- dancing
-- listening to music
-- studying
-- reading
 
 # Expresiones (Expressing likes and dislikes)
 
@@ -174,7 +110,6 @@ Planes e intenciones, Predicciones.
 - Are you going to London this summer?
 
 
-
 # Presente continuo (present continuous tense)
 
 Sujeto + tobe + verbo-ing
@@ -198,43 +133,6 @@ Sujeto + tobe + verbo-ing
 
 # Basic English 2: Pre-Intermediate King's College London
 
-## nuevas palabras
-- bicycle
-- clock - reloj de mesa
-- piano
-- diary - diario
-- cookbook
-- letter - carta
-- class
-- meeting - reunion
-- wedding - boda
-- Midday - medio dia
-- midnight - media noche
-- market - mercado
-- office
-- airport
-
-## pasado - verbos regular
-
-**verbo + ed** \
-* start - started
-* play - played
-* clean - cleaned
-* finish - finished
-* listen - listened
-* prepare - prepared
-* dance - danced
-
-## pasado - verbos irregular
-
-**no hay regla** \
-* buy - bought
-* spoke - speak
-* eat - ate
-* have - had
-* go - went
-* take - took
-
 ## estructura pasado simple
 * sujeto + verbo en pasado + complemento
 * sujeto + did not + verbo + complemento
@@ -256,12 +154,16 @@ Sujeto + tobe + verbo-ing
 
 ## El tiempo
 
-
-
 ### Hora en punto (o'clock)
 - It's three o'clock
+- It's three am
+- It's three pm
 - It's six o'clock
+- It's six am
+- It's six pm
 - It's one o'clock
+- It's one am
+- It's one pm
 
 ### 12:00 a.m (media noche)
 - It's twelve o'clock
@@ -305,6 +207,7 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 - 6:45 = it's a quarter to seven (it's six forty five) - faltan 15min para las 7
 
 # NOTAS
+- (i) siempre va con mayucula = ..., I run ...
 - tense = sentencia
 - What will you be doing? = ¿Que vas a hacer?
 - as it is called: como se le llama
