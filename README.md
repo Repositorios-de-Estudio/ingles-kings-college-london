@@ -216,6 +216,18 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 * along - a lo largo de
 * across - cruzar
 * past - pasando por
+* straight - ir recto
+
+## Preposiciones de lugares
+* between - entre.
+* behind - detrás de.
+* in front of - delante de.
+* under - bajo de.
+* to the right of - a la derecha de.
+* to the left of - a la izquierda de.
+* next to - al lado de.
+* near - cerca de.
+
 
 ### Ejemplos:
 - Ahmed is going to university (va a la universidad)
@@ -236,16 +248,6 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 - The duck swam past the boat
 - I swam from this side of the lake and along the park
 
-### Ejmplo pedir y dar direcciones
-- Hector: Excuse me sir, how do I get to the hospital?
-- Martin: Go along this road, past the cinema, across the bridge and the hospital is on the left.
-
-## Preposiciones de lugares
-* between - entre.
-* behind - detrás de.
-* in front of - delante de.
-* under - bajo de.
-
 ### Ejemplos:
 - Bobby the cat is between the plant and the sofa
 - Bobby the cat is behind the sofa
@@ -255,6 +257,19 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 ## Ejemplos compuestos:
 - The man is running with the dog through the forest
 - The cat is running from the dog through the snow
+
+### Ejemplo pedir y dar direcciones
+- forma 1 
+	-	Hector: Excuse me sir, how do I get to the hospital?
+	-	Martin: Go along this road, past the cinema, across the bridge and the hospital is on the left.
+- forma 2
+	- Señora: Excuse me. I’m looking for the post office. Can you please direct me?
+	- Hombre: Sure. Walk straight along Halab Avenue, past the pharmacy then turn left onto Beirut Road
+	- Señora:  Is the post office on Beirut Road?
+	- Hombre: Yes. It’s between the large bookshop and the coffee shop (Está entre la librería grande y la cafetería)
+
+
+
 
 
 ***
@@ -271,4 +286,5 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 - Look at my  = Mira mi(s)
 - Write back soon = Escribeme pronto (sobre un email)
 - What’s London like? = Como esta Londres?
--  will help you to find your way around = Te ayudará a orientarte
+- will help you to find your way around = Te ayudará a orientarte
+- Take a look - eche un vistazo
