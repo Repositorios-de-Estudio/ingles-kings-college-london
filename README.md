@@ -212,7 +212,7 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 * to - a/hacia
 * from - de/desde
 * through - a través de
-* round - dar vuelta a
+* round - dar vuelta a/a la vuelta de
 * along - a lo largo de
 * across - cruzar
 * past - pasando por
@@ -295,11 +295,17 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 		- Walk {8 across} the road to reach Wahren Avenue, then turn right onto Al Thawra Street.
 
 
-### Ejercicio
+### Ejercicio 1
 Mapa:  *El ejercio esta en forma 3* ![mapa](media/reading-maps-3.jpg)
 
-
-
+### Ejercicio 2
+My house is not too far from here.
+I live in Hamra. It is an area of Beirut.
+The local school is {1. round} the corner from my house.
+When I walk home {2. from} work, I usually stop on Bliss Street so I can walk {3. through} the university. It is a beautiful place, there is a small pond in the park.
+I also walk {4. Past} the florist and look {5. through} the windows at the beautiful flowers.
+The post office is {6. between} the florist and the greengrocers.
+There is also a bridge near my house, so I walk over it to cross the road to the sea. It is a nice place to live.
 ***
 
 # NOTAS
