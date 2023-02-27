@@ -287,7 +287,8 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 
 ### Ejercicio
 Mapa ![mapa](media/reading-maps-3.jpg)
- **Ver forma 3**
+ \ 
+ *El ejercio esta en forma 3*
 
 
 
