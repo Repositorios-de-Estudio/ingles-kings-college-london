@@ -217,6 +217,10 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 * across - cruzar
 * past - pasando por
 * straight - ir recto
+* on - esta en
+* Turn Left - Gire a la izquierda
+* onto - sobre
+
 
 ## Preposiciones de lugares
 * between - entre.
@@ -227,6 +231,8 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 * to the left of - a la izquierda de.
 * next to - al lado de.
 * near - cerca de.
+* Opposite - al lado opuesto
+* Right - a la derecha
 
 
 ### Ejemplos:
@@ -247,12 +253,17 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 - The dog swam across the river, to the end
 - The duck swam past the boat
 - I swam from this side of the lake and along the park
+- The pond is on main avenue
 
 ### Ejemplos:
 - Bobby the cat is between the plant and the sofa
 - Bobby the cat is behind the sofa
 - Bobby the cat is in front of the tv
 - Bobby the cat is under the table
+- Bobby the cat is to the right of the plant
+- Bobby the cat is to the left of the plant
+- Bobby the cat is next to the plant
+- Bobby the cat is near the plant
 
 ## Ejemplos compuestos:
 - The man is running with the dog through the forest
@@ -267,7 +278,16 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 	- Hombre: Sure. Walk straight along Halab Avenue, past the pharmacy then turn left onto Beirut Road
 	- Señora:  Is the post office on Beirut Road?
 	- Hombre: Yes. It’s between the large bookshop and the coffee shop (Está entre la librería grande y la cafetería)
+- forma 3
+	- Pregunta: What are the directions to go from the mosque to the cafe?
+	- Respuesta: To go from the mosque to the cafe, you must:
+		- Exit the mosque and walk {past} the school.
+		- Walk {along} the shoe shop then {turn left} onto Al Qanawat Lane.
+		- Turn {right} onto Al Baridi Street- the café is {opposite} the library.
 
+### Ejercicio
+Mapa ![mapa](media/reading-maps-3.jpg)
+ **Ver forma 3**
 
 
 
@@ -287,4 +307,5 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 - Write back soon = Escribeme pronto (sobre un email)
 - What’s London like? = Como esta Londres?
 - will help you to find your way around = Te ayudará a orientarte
-- Take a look - eche un vistazo
+- Take a look - eche un vistazo a...
+- Look at - mira el...
