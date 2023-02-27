@@ -219,7 +219,7 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 * straight - ir recto
 * on - esta en
 * Turn Left - Gire a la izquierda
-* onto - sobre
+* onto - en/sobre
 
 
 ## Preposiciones de lugares
@@ -233,6 +233,8 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 * near - cerca de.
 * Opposite - al lado opuesto
 * Right - a la derecha
+* Continue - continuar (la trayectoria que esta siguiendo)
+* Road - camino/calle
 
 
 ### Ejemplos:
@@ -278,18 +280,23 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 	- Hombre: Sure. Walk straight along Halab Avenue, past the pharmacy then turn left onto Beirut Road
 	- Señora:  Is the post office on Beirut Road?
 	- Hombre: Yes. It’s between the large bookshop and the coffee shop (Está entre la librería grande y la cafetería)
-- forma 3
+- forma 3.1
 	- Pregunta: What are the directions to go from the mosque to the cafe?
 	- Respuesta: To go from the mosque to the cafe, you must:
 		- Exit the mosque and walk {past} the school.
 		- Walk {along} the shoe shop then {turn left} onto Al Qanawat Lane.
 		- Turn {right} onto Al Baridi Street- the café is {opposite} the library.
+- forma 3.2
+	- P: What are the directions to go from the train station to Al Thawra Street?
+	- R: To go from the train station to Al Thawra Street, you must:
+		- Exit the train station and then turn {1 right} onto Al Qanawat Lane.
+		- Walk {2 past} the shoe shop and the {3 Sports} shop.
+		- Turn {4 left} onto Al Baridi {5 straight} and continue {6 road} until you see the {7 Pond}.
+		- Walk {8 across} the road to reach Wahren Avenue, then turn right onto Al Thawra Street.
+
 
 ### Ejercicio
-Mapa ![mapa](media/reading-maps-3.jpg)
- \ 
- *El ejercio esta en forma 3*
-
+Mapa:  *El ejercio esta en forma 3* ![mapa](media/reading-maps-3.jpg)
 
 
 
