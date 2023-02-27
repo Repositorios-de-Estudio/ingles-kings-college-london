@@ -79,19 +79,29 @@
 - office
 - airport
 
-# direcciones
-- Park - Parque.
-- Greengrocer - Verduleria/Mercado.
-- Bridge - Puente.
-- River - Río.
-- School - Escuela.
-- Library - Biblioteca.
-- Train station - Estación de tren.
-- Bookshop - Librería.
-- Hill - Colina.
-- Pond - Estanque/Charca.
-- Florist - Floristeria.
-- Roundabout - Rotonda.
+# direcciones / lugares
+* Park - Parque.
+* Greengrocer - Verduleria/Mercado.
+* Bridge - Puente.
+* River - Río.
+* School - Escuela.
+* Library - Biblioteca.
+* Train station - Estación de tren.
+* Bookshop - Librería.
+* Hill - Colina.
+* Florist - Floristeria.
+* Roundabout - Rotonda.
+* post office - ofina de correos
+* Bank - Banco
+* Cafe - Café
+* Pharmacy - Farmacia
+* Library -  Biblioteca
+* Train Station - Estación de tren
+* Book shop - Tienda de libros
+* Sports shop - Tienda de deportes
+* Shoe shop - Tienda de zapatos
+* School - Escuela
+* Pond - Estanque
 
 # acciones
 - flying
@@ -101,6 +111,5 @@
 - jumping
 - falling 
 - swimming
-- 
-# lugares
-*  post office - ofina de correos
+
+
