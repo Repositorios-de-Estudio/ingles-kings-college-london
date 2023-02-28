@@ -217,9 +217,11 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 * across - cruzar
 * past - pasando por
 * straight - ir recto
-* on - esta en
+* on - esta en / sobre
+* in - en 
 * Turn Left - Gire a la izquierda
-* onto - en/sobre
+* Turn Right - Gire a la derecha
+* onto - en/sobre 
 
 
 ## Preposiciones de lugares
@@ -229,12 +231,14 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 * under - bajo de.
 * to the right of - a la derecha de.
 * to the left of - a la izquierda de.
-* next to - al lado de.
+* next to - al lado de (no importa si esta cruzando una calle)
+* Beside - al lado de (mas formal)
 * near - cerca de.
 * Opposite - al lado opuesto
 * Right - a la derecha
 * Continue - continuar (la trayectoria que esta siguiendo)
 * Road - camino/calle
+* reach - llegar a (alcanzar a llegar)
 
 
 ### Ejemplos:
@@ -323,3 +327,4 @@ There is also a bridge near my house, so I walk over it to cross the road to the
 - will help you to find your way around = Te ayudará a orientarte
 - Take a look - eche un vistazo a...
 - Look at - mira el...
+- Where you spend time? - ¿Donde pasa el tiempo?

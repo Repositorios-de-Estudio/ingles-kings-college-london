@@ -1,5 +1,4 @@
 # Personalidad
-
 - shy
 - moody
 - talkative
@@ -21,7 +20,6 @@
 - confident
 
 # Estado de salud
-
 - coughing (tosiendo)
 - Slapping (bofetada)
 - carring (llevando)
@@ -30,18 +28,21 @@
 - Sneezing (estornudando)
 
 # Estados 
-
 - angry
 - sad
 - relaxed
 - worrying
 
-
 # Objetos
-
 - book
 - essay (ensayo)
 - table
+- bicycle
+- clock - reloj de mesa
+- piano
+- diary - diario
+- cookbook
+- letter - carta
 
 # Fimls
 - comedy
@@ -56,31 +57,30 @@
 - Medic
 
 # Gustos (Hoobies / activity)
-- playing footbal
-- singing
-- dancing
-- listening to music
-- studying
-- reading
+* playing footbal
+* singing
+* dancing
+* listening to music
+* studying
+* reading
+* flying
+* dancing
+* walking
+* running
+* jumping
+* falling 
+* swimming
 
-# nuevas palabras
-- bicycle
-- clock - reloj de mesa
-- piano
-- diary - diario
-- cookbook
-- letter - carta
-- class
+# Tiempo
 - meeting - reunion
 - wedding - boda
 - Midday - medio dia
 - midnight - media noche
-- market - mercado
-- office
-- airport
+
 
 # direcciones / lugares
 * Park - Parque.
+* Car park - estacionamiento.
 * Greengrocer - Verduleria/Mercado.
 * Bridge - Puente.
 * River - Río.
@@ -102,14 +102,9 @@
 * Shoe shop - Tienda de zapatos
 * School - Escuela
 * Pond - Estanque
-
-# acciones
-- flying
-- dancing
-- walking
-- running
-- jumping
-- falling 
-- swimming
-
+* Entrance - estrada (de algun lugar)
+* class
+* market - mercado
+* office
+* airport
 
