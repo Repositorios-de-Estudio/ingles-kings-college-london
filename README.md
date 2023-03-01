@@ -276,7 +276,7 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 - The cat is running from the dog through the snow
 
 ### Ejemplo pedir y dar direcciones
-- forma 1 
+- forma 1
 	-	Hector: Excuse me sir, how do I get to the hospital?
 	-	Martin: Go along this road, past the cinema, across the bridge and the hospital is on the left.
 - forma 2
@@ -290,13 +290,6 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 		- Exit the mosque and walk {past} the school.
 		- Walk {along} the shoe shop then {turn left} onto Al Qanawat Lane.
 		- Turn {right} onto Al Baridi Street- the café is {opposite} the library.
-- forma 3.2
-	- P: What are the directions to go from the train station to Al Thawra Street?
-	- R: To go from the train station to Al Thawra Street, you must:
-		- Exit the train station and then turn {1 right} onto Al Qanawat Lane.
-		- Walk {2 past} the shoe shop and the {3 Sports} shop.
-		- Turn {4 left} onto Al Baridi {5 straight} and continue {6 road} until you see the {7 Pond}.
-		- Walk {8 across} the road to reach Wahren Avenue, then turn right onto Al Thawra Street.
 
 
 ### Ejercicio 1
@@ -310,6 +303,34 @@ When I walk home {2. from} work, I usually stop on Bliss Street so I can walk {3
 I also walk {4. Past} the florist and look {5. through} the windows at the beautiful flowers.
 The post office is {6. between} the florist and the greengrocers.
 There is also a bridge near my house, so I walk over it to cross the road to the sea. It is a nice place to live.
+
+## Ejercicios de la forma 3 sobre el mapa
+
+- P: What are the directions to go from the train station to Al Thawra Street?
+- R: To go from the train station to Al Thawra Street, you must:
+	- Exit the train station and then turn {1 right} onto Al Qanawat Lane.
+	- Walk {2 past} the shoe shop and the {3 Sports} shop.
+	- Turn {4 left} onto Al Baridi {5 straight} and continue {6 road} until you see the {7 Pond}.
+
+Otro \
+
+	- Walk {8 across} the road to reach Wahren Avenue, then turn right onto Al Thawra Street.
+- P:  What are the directions to go from the train statio to Al Thawra Street?
+- R: To go from the train station to Al Thawra Street, you must:
+	- Exit the train station and then turn {1. right} onto Al Qanawat Lane. 
+	- Walk {2. past} the shoe shop and the {3. Sports} shop. 
+	- Turn {4. left} onto Al Baridi {5. road} and continue {6. straight} until you see the {7. Pond}.
+	- Walk {8. across} the road to reach Wahren Avenue, then turn right onto Al Thawra Street.
+
+### Ejercicio 3
+My house is not too far from here. I live in Hamra.
+It is an area of Beirut. The local school is {1. round} the corner from my house.
+When I walk home {2. from} work, I usually stop on Bliss Street so I can walk {3. throught} the university. It is a beautiful place, there is a small pond in the park.
+I also walk {4. past} the florist and look {5. throught} the windows at the beautiful flowers.
+The post office is {6. between} the florist and the greengrocers.
+There is also a bridge near my house, so I walk over it to cross the road to the sea. It is a nice place to live.
+
+
 ***
 
 # NOTAS
