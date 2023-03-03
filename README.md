@@ -386,6 +386,16 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 5. Adjetivos de dos o más sílabas: Usar more o less
 6. Para irregulares no hay regla: ej good - better y bad - worse
 
+## Ejemplos
+
+* Ice cream is colder than tea
+* Gold is more expensive than silver
+* My phone is newer than your phone.
+* Football is better than cricket.
+* Books are more boring than films
+* Books are cheaper than computers
+* 
+
 ***
 
 # NOTAS
