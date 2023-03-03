@@ -121,7 +121,7 @@
 * office
 * airport
 
-# Calificativos
+# Adjetivos (Calificativos/comparar)
 
 * small - pequeño
 * big - grande

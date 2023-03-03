@@ -12,14 +12,14 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 
 ## Sujeto (pronouns)
 
-- i
-- you
-- he
-- she
-- it
-- we
-- you
-- they
+* i
+* you
+* he
+* she
+* it
+* we
+* you
+* they
 
 ## Adjetivos demostrativos
 
@@ -37,11 +37,11 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 * her
 * their
 
-## verb to be
+## verbo to be
 
-- am (i am)
-- is (he/she is)
-- are (we/you/they are)
+* am - i am
+* is - he/she is
+* are - we/you/they are
 
 ## Adjetivos/atributos (Adjectives)
 
@@ -51,10 +51,9 @@ tamaño,forma,color,temperatura, sabor
 
 he/she is
 
-- he's happy, she's funny
-- What’s he like?
-- He's/She's not shy
-
+* he's happy, she's funny
+* What’s he like?
+* He's/She's not shy
 
 ## EXPRESIONES (Expressing likes and dislikes)
 
@@ -103,27 +102,23 @@ Muy formal, menos usado.
 
 Planes e intenciones, Predicciones.
 
-
 ## Positivo
 
-- I will tell you tomorro 
-- I'll tell you tomorro \
-
-- We are going travel the next week \
-- We gonna travel the next week 
+* I will tell you tomorro
+* I'll tell you tomorro
+* We are going travel the next week
+* We gonna travel the next week
 
 ## Negativo
 
-- I will not call you tomorro
-- I won't call you tomorro
-
-- He’s not going to want this car
+* I will not call you tomorro
+* I won't call you tomorro
+* He’s not going to want this car
 
 ## Interrogativo
 
-- Will you come tonight? \
-
-- Are you going to London this summer?
+* Will you come tonight?
+* Are you going to London this summer?
 
 ## PRESENTE CONTINUO (present continuous tense)
 
@@ -131,21 +126,21 @@ Sujeto + tobe + verbo-ing
 
 ## Positivo
 
-- I am reading / I'm reading
-- He is reading / He's reading
-- You are reading / She's reading
+* I am reading / I'm reading
+* He is reading / He's reading
+* You are reading / She's reading
 
 ## Negativo
 
-- I am not reading / I amn't reading
-- She is not reading / She isn't reading
-- They are not reading / They aren't reading
+* I am not reading / I amn't reading
+* She is not reading / She isn't reading
+* They are not reading / They aren't reading
 
 ## Interrogativo
 
-- Am i reading?
-- Is he reading?
-- Are we reading?
+* Am i reading?
+* Is he reading?
+* Are we reading?
 
 ***
 
@@ -156,81 +151,80 @@ Sujeto + tobe + verbo-ing
 * sujeto + verbo en pasado + complemento
 * sujeto + did not + verbo + complemento
 * Did + sujeto + verbo + complemento
-	* Yes/No, frase en pasado
-	* Yes/No, she/he did (not)
-
-- I danced to music at the disco.
-- I finished my homework at 5pm.
-- I cleaned the kitchen yesterday.
-- I prepared the dinner last night.
-- Nadia did not dance at the party.
-- Mo did not prepare the food.
-- Ahmed did not clean the floor.
-- Did Nadia walk?
-- Did Nadia's sister walk to the shop?
-  - No, She was sick
+  * Yes/No, frase en pasado
+  * Yes/No, she/he did (not)
+* I danced to music at the disco.
+* I finished my homework at 5pm.
+* I cleaned the kitchen yesterday.
+* I prepared the dinner last night.
+* Nadia did not dance at the party.
+* Mo did not prepare the food.
+* Ahmed did not clean the floor.
+* Did Nadia walk?
+* Did Nadia's sister walk to the shop?
+  * No, She was sick
 
 ## LA HORA
 
 ## Hora en punto (o'clock)
 
-- It's three o'clock
-- It's three am
-- It's three pm
-- It's six o'clock
-- It's six am
-- It's six pm
-- It's one o'clock
-- It's one am
-- It's one pm
+* It's three o'clock
+* It's three am
+* It's three pm
+* It's six o'clock
+* It's six am
+* It's six pm
+* It's one o'clock
+* It's one am
+* It's one pm
 
 ## 12:00 a.m (media noche)
 
-- It's twelve o'clock
-- It's twuelve pm
-- It's midnight
+* It's twelve o'clock
+* It's twuelve pm
+* It's midnight
 
 ## 12:00 p.m (medio día)
 
-- It's twelve o'clock
-- It's twuelve am
-- It's twuelve noon
-- It's midday
+* It's twelve o'clock
+* It's twuelve am
+* It's twuelve noon
+* It's midday
 
 ## Hora desde 01 min a 09 min (oh)
 
-- 10:01 = it's ten oh one
-- 10:06 = it's ten oh six
-- 10:07 = it's ten oh nine
+* 10:01 = it's ten oh one
+* 10:06 = it's ten oh six
+* 10:07 = it's ten oh nine
 
 ## Hora con el minutero del lado derecho 10min-29min (after/past)
 
 Cuando el minutero esta al lado derecho del reloj, se puede usar *after* o *past*. \
 
-- 8:10 = it's ten after eight (it's eight ten) - 10min despues de las 8
-- 8:10 = it's ten past eight
-- 8:25 = it's twenty five after eight (it's eight twenty five) - 25min despues de las 8
-- 8:25 = it's twenty five past eight
+* 8:10 = it's ten after eight (it's eight ten) - 10min despues de las 8
+* 8:10 = it's ten past eight
+* 8:25 = it's twenty five after eight (it's eight twenty five) - 25min despues de las 8
+* 8:25 = it's twenty five past eight
 
 ## Hora con el minutero del lado izquierdo 31min-59min (to)
 
 Cuando el minutero esta al lado izquierdo del reloj, se puede usar *to*. \
 
-- 4:35 = it's twenty five to five (it's four thirty five) - faltan 25min para las 5
-- 4:50 = it's ten to five (it's four fifty) - faltan 10min para las 5
+* 4:35 = it's twenty five to five (it's four thirty five) - faltan 25min para las 5
+* 4:50 = it's ten to five (it's four fifty) - faltan 10min para las 5
 
 ## Hora y media 30min (half past)
 
-- 2:30 = it's half past two (it's two thirty)
-- 4:30 = it's half past four (it's four thirty)
-- 6:30 = it's half past six (it's four six)
+* 2:30 = it's half past two (it's two thirty)
+* 4:30 = it's half past four (it's four thirty)
+* 6:30 = it's half past six (it's four six)
 
 ## Hora con cuarto +/-15 min (a quarter)
 
 Dependendiento de que lado este el minutero se aplican las reglas de *past/after* o *to*. \
 
-- 6:15 = it's a quarter past/after six (it's six fifteen) - pasan 15min despues de las 6
-- 6:45 = it's a quarter to seven (it's six forty five) - faltan 15min para las 7
+* 6:15 = it's a quarter past/after six (it's six fifteen) - pasan 15min despues de las 6
+* 6:45 = it's a quarter to seven (it's six forty five) - faltan 15min para las 7
 
 ## DIRECCIONES (prepositions of place and movement)
 
@@ -269,57 +263,57 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 
 ### Ejemplos
 
-- Ahmed is going to university (va a la universidad)
-- Ahmed is walking from university (camina desde la universidad)
-- Ahmed is walking through the door (esta pasando a travez de la puerta)
-- Ahmed is walking round the corner (esta dando la vuelta a la esquina)
-- Ahmed is walking along the road (esta caminando por la carretera)
-- Ahmed is walking across the bridge (esta cruzando el puente)
-- Ahmed is walking past the shop (esta pasando por la tienda)
-- The train is going under the bridge
-- The car is driving round the roundabout
-- I go along the river every day
-- I walked from my house to the library
-- He drove his car through the city
-- I ran past the cake shop this morning
-- I go to the library every day
-- The dog swam across the river, to the end
-- The duck swam past the boat
-- I swam from this side of the lake and along the park
-- The pond is on main avenue
+* Ahmed is going to university (va a la universidad)
+* Ahmed is walking from university (camina desde la universidad)
+* Ahmed is walking through the door (esta pasando a travez de la puerta)
+* Ahmed is walking round the corner (esta dando la vuelta a la esquina)
+* Ahmed is walking along the road (esta caminando por la carretera)
+* Ahmed is walking across the bridge (esta cruzando el puente)
+* Ahmed is walking past the shop (esta pasando por la tienda)
+* The train is going under the bridge
+* The car is driving round the roundabout
+* I go along the river every day
+* I walked from my house to the library
+* He drove his car through the city
+* I ran past the cake shop this morning
+* I go to the library every day
+* The dog swam across the river, to the end
+* The duck swam past the boat
+* I swam from this side of the lake and along the park
+* The pond is on main avenue
 
 ### Ejemplos
 
-- Bobby the cat is between the plant and the sofa
-- Bobby the cat is behind the sofa
-- Bobby the cat is in front of the tv
-- Bobby the cat is under the table
-- Bobby the cat is to the right of the plant
-- Bobby the cat is to the left of the plant
-- Bobby the cat is next to the plant
-- Bobby the cat is near the plant
+* Bobby the cat is between the plant and the sofa
+* Bobby the cat is behind the sofa
+* Bobby the cat is in front of the tv
+* Bobby the cat is under the table
+* Bobby the cat is to the right of the plant
+* Bobby the cat is to the left of the plant
+* Bobby the cat is next to the plant
+* Bobby the cat is near the plant
 
 ## Ejemplos compuestos
 
-- The man is running with the dog through the forest
-- The cat is running from the dog through the snow
+* The man is running with the dog through the forest
+* The cat is running from the dog through the snow
 
 ### Ejemplo pedir y dar direcciones
 
-- forma 1
-	-	Hector: Excuse me sir, how do I get to the hospital?
-	-	Martin: Go along this road, past the cinema, across the bridge and the hospital is on the left.
-- forma 2
-	- Señora: Excuse me. I’m looking for the post office. Can you please direct me?
-	- Hombre: Sure. Walk straight along Halab Avenue, past the pharmacy then turn left onto Beirut Road
-	- Señora:  Is the post office on Beirut Road?
-	- Hombre: Yes. It’s between the large bookshop and the coffee shop (Está entre la librería grande y la cafetería)
-- forma 3.1
-	- Pregunta: What are the directions to go from the mosque to the cafe?
-	- Respuesta: To go from the mosque to the cafe, you must:
-		- Exit the mosque and walk {past} the school.
-		- Walk {along} the shoe shop then {turn left} onto Al Qanawat Lane.
-		- Turn {right} onto Al Baridi Street- the café is {opposite} the library.
+* forma 1
+  * Hector: Excuse me sir, how do I get to the hospital?
+  * Martin: Go along this road, past the cinema, across the bridge and the hospital is on the left.
+* forma 2
+  * Señora: Excuse me. I’m looking for the post office. Can you please direct me?
+  * Hombre: Sure. Walk straight along Halab Avenue, past the pharmacy then turn left onto Beirut Road
+  * Señora:  Is the post office on Beirut Road?
+  * Hombre: Yes. It’s between the large bookshop and the coffee shop (Está entre la librería grande y la cafetería)
+* forma 3.1
+  * Pregunta: What are the directions to go from the mosque to the cafe?
+  * Respuesta: To go from the mosque to the cafe, you must:
+    * Exit the mosque and walk {past} the school.
+    * Walk {along} the shoe shop then {turn left} onto Al Qanawat Lane.
+    * Turn {right} onto Al Baridi Street- the café is {opposite} the library.
 
 ### Ejercicio 1
 
@@ -337,21 +331,21 @@ There is also a bridge near my house, so I walk over it to cross the road to the
 
 ## Ejercicios de la forma 3 sobre el mapa
 
-- P: What are the directions to go from the train station to Al Thawra Street?
-- R: To go from the train station to Al Thawra Street, you must:
-	- Exit the train station and then turn {1 right} onto Al Qanawat Lane.
-	- Walk {2 past} the shoe shop and the {3 Sports} shop.
-	- Turn {4 left} onto Al Baridi {5 straight} and continue {6 road} until you see the {7 Pond}.
+* P: What are the directions to go from the train station to Al Thawra Street?
+* R: To go from the train station to Al Thawra Street, you must:
+  * Exit the train station and then turn {1 right} onto Al Qanawat Lane.
+  * Walk {2 past} the shoe shop and the {3 Sports} shop.
+  * Turn {4 left} onto Al Baridi {5 straight} and continue {6 road} until you see the {7 Pond}.
+  * Walk {8 across} the road to reach Wahren Avenue, then turn right onto Al Thawra Street.
 
 Otro \
 
-	- Walk {8 across} the road to reach Wahren Avenue, then turn right onto Al Thawra Street.
-- P:  What are the directions to go from the train statio to Al Thawra Street?
-- R: To go from the train station to Al Thawra Street, you must:
-	- Exit the train station and then turn {1. right} onto Al Qanawat Lane. 
-	- Walk {2. past} the shoe shop and the {3. Sports} shop. 
-	- Turn {4. left} onto Al Baridi {5. road} and continue {6. straight} until you see the {7. Pond}.
-	- Walk {8. across} the road to reach Wahren Avenue, then turn right onto Al Thawra Street.
+* P:  What are the directions to go from the train statio to Al Thawra Street?
+* R: To go from the train station to Al Thawra Street, you must:
+  * Exit the train station and then turn {1. right} onto Al Qanawat Lane.
+  * Walk {2. past} the shoe shop and the {3. Sports} shop.
+  * Turn {4. left} onto Al Baridi {5. road} and continue {6. straight} until you see the {7. Pond}.
+  * Walk {8. across} the road to reach Wahren Avenue, then turn right onto Al Thawra Street.
 
 ### Ejercicio 3
 
@@ -362,26 +356,52 @@ I also walk {4. past} the florist and look {5. throught} the windows at the beau
 The post office is {6. between} the florist and the greengrocers.
 There is also a bridge near my house, so I walk over it to cross the road to the sea. It is a nice place to live.
 
-# COMPARATIVO (comparatives)
+# COMPARATIVO (comparatives) - more
 
-Comparativo
+Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
+
+## Superioridad
+
+1. Sujeto1 + to be + adjetivo con more/-er + than + sujeto2
+   1. Perla is older than María - Perla es más grande que María
+
+## Inferioridad
+
+1. Sujeto1 + to be + not as + adjetivo + as + sujeto2
+   1. My house is not as big as yours - Mi casa no es tan grande como la tuya
+2. Sujeto1 + to be + less + adjetivo + than + sujeto2
+   1. Your car is less fast than your brother’s - Tu carro es menos veloz que el de tu hermano
+
+## Igualdad
+
+1. Sujeto1 + to be + as + adjetivo + as + sujeto2
+   1. My dog is as intelligent as my cat - Mi perro es tan inteligente como mi gato
+
+## Reglas
+
+1. Adjetivos de una sílaba: Agregar -er
+2. Adjetivos de una sílaba terminados en –e: agregar -r
+3. Adjetivos de una sílaba con consonante + vocal + consonante: Duplicar última consonante y agregar –er
+4. Adjetivos de dos sílabas terminados en –y: Cambia –y por –i y agregar –er
+5. Adjetivos de dos o más sílabas: Usar more o less
+6. Para irregulares no hay regla: ej good - better y bad - worse
 
 ***
 
 # NOTAS
 
-- (i) siempre va con mayucula = ..., I run ...
-- tense = sentencia
-- What will you be doing? = ¿Que vas a hacer?
-- as it is called: como se le llama
-- I went home to my house = me fui a mi casa
-- only once = solo una vez
-- by reading about  = leyendo sobre
-- How’s it going man! = Como estas!
-- Look at my  = Mira mi(s)
-- Write back soon = Escribeme pronto (sobre un email)
-- What’s London like? = Como esta Londres?
-- will help you to find your way around = Te ayudará a orientarte
-- Take a look - eche un vistazo a...
-- Look at - mira el...
-- Where you spend time? - ¿Donde pasa el tiempo?
+* (i) siempre va con mayucula = ..., I run ...
+* tense = sentencia
+* What will you be doing? = ¿Que vas a hacer?
+* as it is called: como se le llama
+* I went home to my house = me fui a mi casa
+* only once = solo una vez
+* by reading about  = leyendo sobre
+* How’s it going man! = Como estas!
+* Look at my  = Mira mi(s)
+* Write back soon = Escribeme pronto (sobre un email)
+* What’s London like? = Como esta Londres?
+* will help you to find your way around = Te ayudará a orientarte
+* Take a look - eche un vistazo a...
+* Look at - mira el...
+* Where you spend time? - ¿Donde pasa el tiempo?
