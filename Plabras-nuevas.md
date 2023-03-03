@@ -79,8 +79,13 @@
 * walking
 * running
 * jumping
-* falling 
+* falling
 * swimming
+
+# Acciones
+
+* press - presionar (ej un boton)
+* 
 
 # Tiempo
 
@@ -127,3 +132,36 @@
 * big - grande
 * expensive - caro
 * cheap - barato
+
+# Sabores (flavour)
+
+* lavour - sabor
+* taste - sabor
+* taste - sentido del gusto
+* bad taste - mal sabor
+* good taste - buen gusto
+* taste bud - papila gustativa
+* delicious - delicioso
+* savoury - sabroso
+* tasty - sabroso
+* appetizing - apetitoso
+* mouthwatering - muy apetitoso (que hace agua la boca)
+* disgusting - asqueroso (de muy mal sabor)
+* flavourless - soso (sin sabor)
+* tasteless - soso (sin sabor)
+* flat - insípido
+* hot, spicy - picante
+* mild, bland - suave
+* bitter - amargo
+* sour - agrio
+* sweet - dulce
+* sweet and sour - agridulce
+* salty - salado
+* sugary - dulce (azucarado)
+* sickly - empalagoso
+* to like - gustar
+* to dislike - disgustar
+* to taste - catar (probar, degustar)
+* to taste of - saber a
+* to become bitter - avinagrarse
+* to turn sour - agriarse

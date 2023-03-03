@@ -242,7 +242,7 @@ Dependendiento de que lado este el minutero se aplican las reglas de *past/after
 * in - en 
 * Turn Left - Gire a la izquierda
 * Turn Right - Gire a la derecha
-* onto - en/sobre 
+* onto - en/sobre
 
 ## Preposiciones de lugares
 
@@ -394,6 +394,27 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 * Football is better than cricket.
 * Books are more boring than films
 * Books are cheaper than computers
+
+# Condicionales (fuente 1)
+
+| Condic. Tipo | Cuando usar                                                                                                                                                                               | MAIN CLAUSE                 | IF CLAUSE                            |                                                              |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------|--------------------------------------------------------------|
+| 0            | Para expresar una verdad general o un hecho científico. \<br>Cláusula if y la cláusula principal, ambas en tiempo presente. \<br><br>**If / When**                                        | If / When + present tense,  | present tense                        | If you plant a seed, it will grow.                           |
+| 1            | Posible situación y su resultado.<br>Su cláusula if usa el tiempo presente, y la cláusula principal usa el tiempo futuro. \<br><br>**IF - will/can/may**                                  | If + present simple tense,  | will/can/may + infinitive            | If you study hard, you will pass your exams.                 |
+| 2            | Situación hipotética y su resultado. \<br>Usa el tiempo pasado y la cláusula principal usa el tiempo presente. \<br><br>**IF - would/could**                                              | If + past simple tense,     | would/could + infinitive             | If I won the lottery, I would buy a house.                   |
+| 3            | Situación pasada imposible y su resultado. \<br>Cláusula if en tiempo pasado perfecto, mientras que la cláusula principal usa un infinitivo perfecto. \<br>**IF - would/could + have**    | If + past perfect,          | would/could + have + past participle | If I had known you were coming, I would have baked a cake.   |
+| Mixed        | Situación pasada y su resultado presente. \<br>Cláusula if usa el tiempo pasado perfecto, y la cláusula condicional principal usa el tiempo presente. \<br><br>**IF - would/could/might** | If + past perfect,          | would/could/might + infinitive       | If I had known you were coming, I would visit you next week. |
+
+## Ejemplos
+
+* If my mother cooks, the food is delicious.
+* When my brother cooks, the food is disgusting.
+* If it rains, I feel unhappy.
+* If you press that button, the light turns on
+* If I study English, I learn it.
+* If I have time, I hang out with my friends
+* If it's cold, I wear a jacket
+* If I don’t buy a phone and headphones, I don’t receive a free phone case
 * 
 
 ***
@@ -415,3 +436,11 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 * Take a look - eche un vistazo a...
 * Look at - mira el...
 * Where you spend time? - ¿Donde pasa el tiempo?
+* I hang out with my friends - Paso el tiempo con mis amigos
+
+***
+
+# FUENTE
+
+1. [Capitalize My Title- condicionales](https://capitalizemytitle.com/what-are-the-types-of-conditional-sentences/)
+2. [British Council Mexico - superlativo-comparativo](https://www.britishcouncil.org.mx/blog/comparativos-superlativos-en-ingles)
