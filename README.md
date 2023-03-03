@@ -407,15 +407,25 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 
 ## Ejemplos
 
-* If my mother cooks, the food is delicious.
-* When my brother cooks, the food is disgusting.
-* If it rains, I feel unhappy.
-* If you press that button, the light turns on
-* If I study English, I learn it.
-* If I have time, I hang out with my friends
-* If it's cold, I wear a jacket
-* If I don’t buy a phone and headphones, I don’t receive a free phone case
-* 
+* 0
+  * If you heat ice, it melts.
+  * When you plant a seed, it will grow.
+  * If you **don’t** sleep, you feel tired.
+  * When I feel cold, I **don’t** eat ice-cream.
+  * If it **doesn’t** rain, I **don’t** take an umbrella.
+* 1
+  * If I have time, I will visit you next week.
+  * If you study hard, you will pass your exams.
+* 2
+  * If I won the lottery, I would buy a house.
+  * If he studied harder, he would get better grades.
+* 3
+  * If I had known you were coming, I would have baked a cake.
+  * If she had arrived early, she could have gotten a good seat.
+* Mix
+  * If I had known you were coming, I would visit you next week.
+  * If he had studied harder, he would get better grades.
+
 
 ***
 
