@@ -1,6 +1,7 @@
-## pasado - verbos regular
+# pasado - verbos regular
 
 **verbo + ed** \
+
 * start - started
 * play - played
 * clean - cleaned
@@ -9,8 +10,10 @@
 * prepare - prepared
 * dance - danced
 
-## pasado - verbos irregular
+# pasado - verbos irregular
+
 **no hay regla** \
+
 * buy - bought
 * spoke - speak
 * eat - ate

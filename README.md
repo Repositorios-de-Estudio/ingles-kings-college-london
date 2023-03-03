@@ -30,13 +30,20 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 * This - Este
 * These - Estos
 
-## verb to be 
+## SIN NOMBES
+
+* its
+* his
+* her
+* their
+
+## verb to be
 
 - am (i am)
 - is (he/she is)
 - are (we/you/they are)
 
-## Adjetivos/atributos (Adjectives) 
+## Adjetivos/atributos (Adjectives)
 
 tamaño,forma,color,temperatura, sabor
 
@@ -354,6 +361,10 @@ When I walk home {2. from} work, I usually stop on Bliss Street so I can walk {3
 I also walk {4. past} the florist and look {5. throught} the windows at the beautiful flowers.
 The post office is {6. between} the florist and the greengrocers.
 There is also a bridge near my house, so I walk over it to cross the road to the sea. It is a nice place to live.
+
+# COMPARATIVO (comparatives)
+
+Comparativo
 
 ***
 

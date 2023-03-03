@@ -1,62 +1,73 @@
 # Personalidad
-- shy
-- moody
-- talkative
-- friendly
-- sad
-- hardworking
-- cheerful
-- funny
-- independent
-- easygoing
-- seious
-- calm
-- creative
-- energetic
-- happy
-- organised
-- boring
-- intelligent
-- confident
+
+* shy
+* moody
+* talkative
+* friendly
+* sad
+* hardworking
+* cheerful
+* funny
+* independent
+* easygoing
+* seious
+* calm
+* creative
+* energetic
+* happy
+* organised
+* boring
+* intelligent
+* confident
 
 # Estado de salud
-- coughing (tosiendo)
-- Slapping (bofetada)
-- carring (llevando)
-- Singing (cantando)
-- Sailing (navegando)
-- Sneezing (estornudando)
+
+* coughing (tosiendo)
+* Slapping (bofetada)
+* carring (llevando)
+* Singing (cantando)
+* Sailing (navegando)
+* Sneezing (estornudando)
 
 # Estados 
-- angry
-- sad
-- relaxed
-- worrying
+
+* angry
+* sad
+* relaxed
+* worrying
 
 # Objetos
-- book
-- essay (ensayo)
-- table
-- bicycle
-- clock - reloj de mesa
-- piano
-- diary - diario
-- cookbook
-- letter - carta
+
+* book
+* essay (ensayo)
+* table
+* bicycle
+* clock - reloj de mesa
+* piano
+* diary - diario
+* cookbook
+* letter - carta
+* receipt - recibo/cuenta
+* card - tarjeta
+* cash - dinero en efectivo
+* present - regalo
 
 # Fimls
-- comedy
-- romance
-- action
+
+* comedy
+* romance
+* action
 
 # Profesiones
-- Chef
-- Teacher
-- Soldier
-- Student
-- Medic
+
+* Chef
+* Teacher
+* Soldier
+* Student
+* Medic
 
 # Gustos (Hoobies / activity)
+
 * playing footbal
 * singing
 * dancing
@@ -72,13 +83,15 @@
 * swimming
 
 # Tiempo
-- meeting - reunion
-- wedding - boda
-- Midday - medio dia
-- midnight - media noche
+
+* meeting - reunion
+* wedding - boda
+* Midday - medio dia
+* midnight - media noche
 
 
 # direcciones / lugares
+
 * Park - Parque.
 * Car park - estacionamiento.
 * Greengrocer - Verduleria/Mercado.
@@ -108,3 +121,9 @@
 * office
 * airport
 
+# Calificativos
+
+* small - pequeño
+* big - grande
+* expensive - caro
+* cheap - barato
