@@ -27,8 +27,8 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 
 * There is/are lot- Hay (hay muchos)
 * There - Allá
-* That - Eso
-* Those - Esos
+* That - Eso (singular)
+* Those - Esos (plural)
 * This - Este
 * These - Estos
 

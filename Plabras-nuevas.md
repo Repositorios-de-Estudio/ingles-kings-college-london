@@ -4,7 +4,7 @@
 * plus -> +
 * take away -> -
 * divide -> /
-* times -> x
+* times -> *
 
 # Personalidad
 
