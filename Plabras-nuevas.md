@@ -1,3 +1,11 @@
+# Simbolos matematicos
+
+* equal -> =
+* plus -> +
+* take away -> -
+* divide -> /
+* times -> x
+
 # Personalidad
 
 * shy

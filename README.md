@@ -10,16 +10,18 @@
 
 Curso: [FutureLearn](https://www.futurelearn.com/)
 
-## Sujeto (pronouns)
+## Tabla de pronombres
 
-* i
-* you
-* he
-* she
-* it
-* we
-* you
-* they
+| Subjet Pronouns | Object Pronouns | Possessive Adjetives | Possessive Pronouns | Reflexive Pronouns        |
+|-----------------|-----------------|----------------------|---------------------|---------------------------|
+| I/YO            | ME/A MI         | MY/MI                | MINE/MIO            | MYSELF/YO MISMO           |
+| YOU/TU          | YOU/TU          | YOURS/TUS            | YOURS/TUYO          | YOURSELF/TU MISMO         |
+| HE/ÉL           | HIM/A ÉL        | HIS/SUS              | HIS/SUYO            | HIMSELF/ÉL MISMO          |
+| SHE/ELLA        | HER/ A ELLA     | HER/SUS              | HER/SUYO            | HERSELF/ELLA MISMA        |
+| IT/ESO          | IT/A ESO(A)     | ITS/SUS              | ITS/(NO EXISTE)     | ITSELF/ESO MISMO          |
+| WE/NOSOTROS     | US/ A NOSOTROS  | OUR/NUESTRO          | OURS/NUESTRO        | OURSELVES/NOSOTROS MISMOS |
+| YOU/USTEDES     | YOU/A USTEDES   | YOURS/SUS            | YOURS/SUYOS         | YOURSELVES/USTEDES MISMOS |
+| THEY/ELLOS      | THEM/A ELLOS    | THEIR/SUS            | THEIR/SUYO          | THEMSELVES/ELLOS MISMOS   |
 
 ## Adjetivos demostrativos
 
@@ -29,13 +31,6 @@ Curso: [FutureLearn](https://www.futurelearn.com/)
 * Those - Esos
 * This - Este
 * These - Estos
-
-## SIN NOMBES
-
-* its
-* his
-* her
-* their
 
 ## verbo to be
 
