@@ -443,8 +443,8 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 ## Ejemplo
 
 1. Dear Sir/Madam,
-2. I am writing to complain about a television I bought from your shop. On Saturday January 29th, I bought a black Samsung television from your shop.
-3. When I watch TV programmes, it works very well. If I watch a DVD, it shows an error message. I am very unhappy with this television.
+2. I am writing to complain about a television I bought from your shop.
+3. On Saturday January 29th, I bought a black Samsung television from your shop. When I watch TV programmes, it works very well. If I watch a DVD, it shows an error message. I am very unhappy with this television.
 4. I would like to return the television. How can I return it?. I do not have a car, so I would like you to collect the television from my home.
 5. Please contact me about this as soon as possible. My phone number is 961 8278 2500. 10.
 6. **Regards,** \
