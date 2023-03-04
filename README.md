@@ -468,6 +468,7 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 * I hang out with my friends - Paso el tiempo con mis amigos
 * Dear Sir/Madam - Estimado señor/señora (para correos/cartas)
 * as soon as possible - tan pronto como sea posible
+* Clare plays Lisa in the play - Clare interpreta a Lisa en la obra
 
 
 ***

@@ -95,6 +95,7 @@
 * press - presionar (ej un boton)
 * push - empujar (una puerta o un boton)
 * complain - quejarse
+* quit - detener
 
 # Tiempo
 
@@ -141,6 +142,7 @@
 * big - grande
 * expensive - caro
 * cheap - barato
+* quite - silencioso
 
 # Sabores (flavour)
 
