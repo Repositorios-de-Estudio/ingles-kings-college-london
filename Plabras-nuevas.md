@@ -85,7 +85,8 @@
 # Acciones
 
 * press - presionar (ej un boton)
-* 
+* push - empujar (una puerta o un boton)
+* complain - quejarse
 
 # Tiempo
 

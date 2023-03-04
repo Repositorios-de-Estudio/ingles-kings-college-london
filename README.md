@@ -407,24 +407,48 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 
 ## Ejemplos
 
-* 0
+* Tipo 0
   * If you heat ice, it melts.
   * When you plant a seed, it will grow.
   * If you **don’t** sleep, you feel tired.
   * When I feel cold, I **don’t** eat ice-cream.
   * If it **doesn’t** rain, I **don’t** take an umbrella.
-* 1
+* Tipo 1
   * If I have time, I will visit you next week.
   * If you study hard, you will pass your exams.
-* 2
+* Tipo 2
   * If I won the lottery, I would buy a house.
   * If he studied harder, he would get better grades.
-* 3
+* Tipo 3
   * If I had known you were coming, I would have baked a cake.
   * If she had arrived early, she could have gotten a good seat.
-* Mix
+* Tipo Mix
   * If I had known you were coming, I would visit you next week.
   * If he had studied harder, he would get better grades.
+
+
+# MODELO DE CARTA/CORREO
+
+## Estructura
+
+1. Saludo
+2. Por que esta escribiendo
+3. Describir el problema
+4. Que se quiere
+   1. pedir informacion y/o
+   2. que es lo que se quiere que se haga
+5. Datos de contacto
+6. Despedida
+
+## Ejemplo
+
+1. Dear Sir/Madam,
+2. I am writing to complain about a television I bought from your shop. On Saturday January 29th, I bought a black Samsung television from your shop.
+3. When I watch TV programmes, it works very well. If I watch a DVD, it shows an error message. I am very unhappy with this television.
+4. I would like to return the television. How can I return it?. I do not have a car, so I would like you to collect the television from my home.
+5. Please contact me about this as soon as possible. My phone number is 961 8278 2500. 10.
+6. **Regards,** \
+    Leila Smith
 
 
 ***
@@ -447,6 +471,9 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 * Look at - mira el...
 * Where you spend time? - ¿Donde pasa el tiempo?
 * I hang out with my friends - Paso el tiempo con mis amigos
+* Dear Sir/Madam - Estimado señor/señora (para correos/cartas)
+* as soon as possible - tan pronto como sea posible
+
 
 ***
 

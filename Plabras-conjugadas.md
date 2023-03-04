@@ -11,6 +11,7 @@
 * listen - listened
 * prepare - prepared
 * dance - danced
+* try - tried
 
 ## pasado - verbos irregular
 
