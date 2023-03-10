@@ -144,6 +144,19 @@
 * cheap - barato
 * quite - silencioso
 
+# Sustantivos
+* accommodation - alojamiento
+* form - formulario
+* newspaper - periodico
+* notebook - cuaderno
+* driveing licence - licencia de conducción
+* passport - pasarporte
+* student card - carnet estudiantil
+* university hall of residence - residencia universitaria/dormitorios universitarios
+* castle - castillo
+* house - casa
+* 
+
 # Sabores (flavour)
 
 * lavour - sabor
@@ -176,3 +189,6 @@
 * to taste of - saber a
 * to become bitter - avinagrarse
 * to turn sour - agriarse
+
+#  sin nombre
+* university halls of residence worker (Accommodation worker) - trabajador de la residencia de la universidad
