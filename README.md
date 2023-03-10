@@ -469,7 +469,11 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 * Dear Sir/Madam - Estimado señor/señora (para correos/cartas)
 * as soon as possible - tan pronto como sea posible
 * Clare plays Lisa in the play - Clare interpreta a Lisa en la obra
-
+* such as - así como/como
+* but about to move to London ... - pero esta a punto de mudarse a Londres..
+* He can fill in the form over the phone - El puede llenar el formulario por telefono
+* out loud - en voz alta
+* Whereabouts in Syria? (Wich city in Syria)  - ¿En que ciudad en Siria?
 
 ***
 
