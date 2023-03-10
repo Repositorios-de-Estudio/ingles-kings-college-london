@@ -4,7 +4,7 @@
 ## Niveles completados
 
 1. Basic English 1 (2023-02)
-2. Basic English 2 (2023-02)
+2. Basic English 2 (2023-03)
 
 ***
 
