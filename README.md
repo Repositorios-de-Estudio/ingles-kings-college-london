@@ -50,6 +50,22 @@ he/she is
 * What’s he like?
 * He's/She's not shy
 
+## Hacer Preguntas (asking questions)
+
+### Estructura
+WHQuestion + to be + sujeto + sustantivo + ?
+
+| **WH-Questions**| **Ejemplo**       	|
+|----------------	|-----------------------	|
+| Who? / Quien   	| Who is he?            	|
+| When? / Cuando 	| When is the exman?    	|
+| What? / Qué    	| What is that?         	|
+| Why? / Por que 	| Why are you walking?  	|
+| Where? / Donde 	| Where is your laptop? 	|
+| Which? / Cúal  	| Which is your house?  	|
+
+
+
 ## EXPRESIONES (Expressing likes and dislikes)
 
 *(+) Love, like, dontlike, hate (-)*
@@ -445,7 +461,6 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 6. **Regards,** \
     Leila Smith
 
-
 ***
 
 # NOTAS
@@ -474,6 +489,7 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 * He can fill in the form over the phone - El puede llenar el formulario por telefono
 * out loud - en voz alta
 * Whereabouts in Syria? (Wich city in Syria)  - ¿En que ciudad en Siria?
+* Kind regards - Atentamente (es una carta)
 
 ***
 

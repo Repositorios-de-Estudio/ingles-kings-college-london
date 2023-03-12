@@ -104,7 +104,6 @@
 * Midday - medio dia
 * midnight - media noche
 
-
 # direcciones / lugares
 
 * Park - Parque.
@@ -155,7 +154,6 @@
 * university hall of residence - residencia universitaria/dormitorios universitarios
 * castle - castillo
 * house - casa
-* 
 
 # Sabores (flavour)
 
@@ -192,3 +190,4 @@
 
 #  sin nombre
 * university halls of residence worker (Accommodation worker) - trabajador de la residencia de la universidad
+* Further - ademas de/en adición

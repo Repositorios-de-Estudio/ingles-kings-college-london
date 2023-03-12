@@ -12,6 +12,7 @@
 * prepare - prepared
 * dance - danced
 * try - tried
+* check - checked
 
 ## pasado - verbos irregular
 
