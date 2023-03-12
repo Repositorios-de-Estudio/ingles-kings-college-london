@@ -53,9 +53,16 @@ he/she is
 ## Hacer Preguntas (asking questions)
 
 ### Estructura
-WHQuestion + to be + sujeto + sustantivo + ?
 
-| **WH-Questions**| **Ejemplo**       	|
+1. WHQuestion + to be + sujeto + sustantivo + ?
+2. Can + sujeto + verbo + complemento + ?
+3. Can + sujeto + do + complemento + ?
+4. Could + sujeto + verbo en infinitivo + complemento + ?
+5. Could + sujeto + do + complemento + ?
+
+**Could** es mas educado que **Can**. Could es usado cuando se gustaría tener algo o se gustaría hacer algo.
+
+| **Questions**| **Ejemplo**       	|
 |----------------	|-----------------------	|
 | Who? / Quien   	| Who is he?            	|
 | When? / Cuando 	| When is the exman?    	|
@@ -63,8 +70,20 @@ WHQuestion + to be + sujeto + sustantivo + ?
 | Why? / Por que 	| Why are you walking?  	|
 | Where? / Donde 	| Where is your laptop? 	|
 | Which? / Cúal  	| Which is your house?  	|
+| Can? / Puede/Puedo | Can I help you?|
+| Can? (do) / Puede/Puedo | Can I do this  is on the phone?|
+| Could? / Podria | Could you repeat the cuestion, please?|
+| Could? (do) / Podria | Could I do this on the phone, please?|
 
+### Ejemplos
 
+1. What's your surname?
+2. What's your date of birth?
+3. What's your passport number?
+4. Can I help you?
+5. Could I do this on the phone?
+6. Could you spell that for me, please?
+7. Could you repeat the question, please?
 
 ## EXPRESIONES (Expressing likes and dislikes)
 
