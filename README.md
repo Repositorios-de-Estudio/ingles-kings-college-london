@@ -3,8 +3,8 @@
 ***
 ## Niveles completados
 
-1. Basic English 1 (2023-02)
-2. Basic English 2 (2023-03)
+1. Basic English 1: Elementary (2023-02)
+2. Basic English 2: Pre-Intermediate (2023-03)
 
 ***
 
@@ -60,7 +60,10 @@ he/she is
 4. Could + sujeto + verbo en infinitivo + complemento + ?
 5. Could + sujeto + do + complemento + ?
 
-**Could** es mas educado que **Can**. Could es usado cuando se gustaría tener algo o se gustaría hacer algo.
+**Could** es mas educado que **Can**.
+
+1. An *offer* es cuando le preguntas a alguien si le gustaría tener algo o si le gustaría que hicieras algo por esapersona.
+2. A *request* es cuando le pides a alguien que haga algo por ti.
 
 | **Questions**| **Ejemplo**       	|
 |----------------	|-----------------------	|
@@ -84,6 +87,33 @@ he/she is
 5. Could I do this on the phone?
 6. Could you spell that for me, please?
 7. Could you repeat the question, please?
+8. Could you say that again, please?
+
+### Ejemplos offers
+
+1. Would you like something to drink?
+2. Would you like me to open the door?
+3. Can I help you?
+4. Can I give you a hand?
+5. Let me help you.
+6. Would you like me to answer the phone?
+7. Do you want some more tea?
+8. Do you want me to turn down the TV?
+9. I’d happy to take you to the airport.
+10. May I offer you a cup of coffee.
+
+### Ejemplos requests
+
+ 1. Can you give me the book?
+ 2. Could you please take off your raincoat?
+ 3. Could you please take me to the dentist?
+ 4. Would you mind opening the window for me, please?
+ 5. Would you be kind enough to repair my computer?
+ 6. Do you think you could take me to the supermarket?
+ 7. Could I ask you to take me home?
+ 8. Can you tell me what happened?
+ 9. Would you come to my birthday party?
+10. Would it be possible for you to come here at 8 A.M?
 
 ## EXPRESIONES (Expressing likes and dislikes)
 
@@ -473,12 +503,21 @@ Sujeto1 + to be + adjetivo con more/less/-er + than + sujeto2
 ## Ejemplo
 
 1. Dear Sir/Madam,
-2. I am writing to complain about a television I bought from your shop.
-3. On Saturday January 29th, I bought a black Samsung television from your shop. When I watch TV programmes, it works very well. If I watch a DVD, it shows an error message. I am very unhappy with this television.
-4. I would like to return the television. How can I return it?. I do not have a car, so I would like you to collect the television from my home.
-5. Please contact me about this as soon as possible. My phone number is 961 8278 2500. 10.
-6. **Regards,** \
+2. {espacio}
+3. I am writing to complain about a television I bought from your shop.
+4. On Saturday January 29th, I bought a black Samsung television from your shop. When I watch TV programmes, it works very well. If I watch a DVD, it shows an error message. I am very unhappy with this television.
+5. {espacio}
+6. I would like to return the television. How can I return it?. I do not have a car, so I would like you to collect the television from my home.
+7. {espacio}
+8. Please contact me about this as soon as possible. My phone number is 961 8278 2500. 10.{espacio}
+9. **Regards,** \
     Leila Smith
+
+***
+
+# Fin de los cursos
+
+![Imagen dos cursos al 100%](./media/fin-de-curso.png)
 
 ***
 
