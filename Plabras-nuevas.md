@@ -144,6 +144,7 @@
 * quite - silencioso
 
 # Sustantivos
+
 * accommodation - alojamiento
 * form - formulario
 * newspaper - periodico
@@ -193,3 +194,13 @@
 * university halls of residence worker (Accommodation worker) - trabajador de la residencia de la universidad
 * Further - ademas de/en adición
 
+# Universitario
+
+* essay - ensayo
+* nowadays - hoy en dia
+* stage - etapa
+* strengths - fortalezas
+* weaknesses - debilidades
+* pointers - sugerencias
+* Kind and respectful - amable y respestuoso
+* to engage in - para participar (en algo)
