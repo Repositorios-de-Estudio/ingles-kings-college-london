@@ -206,3 +206,9 @@
 * pointers - sugerencias
 * Kind and respectful - amable y respestuoso
 * to engage in - para participar (en algo)
+* Main idea, Supporting evidence
+* Accurate grammar - gramatica precisa
+* It is about halfway between - esta a mitad de camino entre ...
+* stay because of - se quedan por ...
+* however - sin embargo
+* perhaps - quizaś, tal vez
