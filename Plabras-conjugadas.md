@@ -27,6 +27,7 @@
 * wake - woke
 * drive - drove
 * swim - swam
+* learn - learned - learnt
 
 ***
 
