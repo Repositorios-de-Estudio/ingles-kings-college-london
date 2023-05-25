@@ -96,6 +96,7 @@
 * push - empujar (una puerta o un boton)
 * complain - quejarse
 * quit - detener
+* bring - traer
 
 # Tiempo
 
@@ -211,4 +212,13 @@
 * It is about halfway between - esta a mitad de camino entre ...
 * stay because of - se quedan por ...
 * however - sin embargo
-* perhaps - quizaś, tal vez
+* perhaps - quizaś / tal vez
+* Sometimes though - sin embargo
+* Although it is - aunque es ...
+* transcript - transcripción
+* I thought - Yo pensé
+* remind - recordar
+* Instead - en cambio/en lugar de
+* rather than - en lugar de ...
+* , ... and so does not ... - por lo que no ...
+* which means - lo cual singinifica
