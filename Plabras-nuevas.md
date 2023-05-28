@@ -208,19 +208,10 @@
 * Kind and respectful - amable y respestuoso
 * to engage in - para participar (en algo)
 * Main idea, Supporting evidence
-* Accurate grammar - gramatica precisa
-* It is about halfway between - esta a mitad de camino entre ...
-* stay because of - se quedan por ...
-* however - sin embargo
-* perhaps - quizaś / tal vez
-* Sometimes though - sin embargo
-* Although it is - aunque es ...
 * transcript - transcripción
 * I thought - Yo pensé
+* however - sin embargo
+* perhaps - quizaś / tal vez
+* bullet points - puntos claves
+* Accurate grammar - gramatica precisa
 * remind - recordar
-* Instead - en cambio/en lugar de
-* rather than - en lugar de ...
-* , ... and so does not ... - por lo que no ...
-* which means - lo cual singinifica
-* aid - ayudar o ayuda (cosa de ayuda)
-* Nearly everyone  - casi todos
