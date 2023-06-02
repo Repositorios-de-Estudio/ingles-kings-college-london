@@ -50,8 +50,3 @@
 * hungry - hungrier
 * cheap - cheaper
 * boring - more boring
-
-# EJEMPLOS - A IMPERSONAL STYLE
-
-* if you do well in English -> if people do well in English
-* I think there will be more people to study English -> There will be more people to study English

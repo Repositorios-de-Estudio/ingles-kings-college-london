@@ -190,7 +190,7 @@
 * to become bitter - avinagrarse
 * to turn sour - agriarse
 
-#  sin nombre
+# sin nombre
 
 * university halls of residence worker (Accommodation worker) - trabajador de la residencia de la universidad
 * Further - ademas de/en adición
@@ -215,3 +215,9 @@
 * bullet points - puntos claves
 * Accurate grammar - gramatica precisa
 * remind - recordar
+* Hopefully - Con un poco de suerte
+
+# EJEMPLOS - A IMPERSONAL STYLE
+
+* if you do well in English -> if people do well in English
+* I think there will be more people to study English -> There will be more people to study English
